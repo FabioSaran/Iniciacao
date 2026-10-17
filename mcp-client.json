@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/FabioSaran/Iniciacao/main/mcp-client.json",
+  "client_id": "https://fabiosaran.github.io/Iniciacao/mcp-client.json",
   "client_name": "Antigravity (mcp-remote bridge)",
   "redirect_uris": ["http://127.0.0.1:12010/oauth/callback"],
   "grant_types": ["authorization_code", "refresh_token"],
